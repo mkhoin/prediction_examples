@@ -1,6 +1,7 @@
-# 04_prediction_models
-  
+#  prediction_models
+
+model performace analysis
 
 ref. 
-  - scikit-learn's example
-  - boston data of scikit-learn
+  - data analysis examples of scikit-learn
+  - based data : boston data (scikit-learn)
